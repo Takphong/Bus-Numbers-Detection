@@ -1,0 +1,6 @@
+path: D:\semester 6\Project_Zero\dataset_bus  # หรือ path ในเครื่องเธอ
+train: images\train
+val: images\val
+
+names:
+  0: bus_number
